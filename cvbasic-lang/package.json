@@ -1,0 +1,25 @@
+{
+  "name": "cvbasic-lang",
+  "displayName": "CVBasic Lang",
+  "description": "Syntax highlighting for CVBasic",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "cvbasic",
+      "aliases": ["CVBasic", "cvbasic"],
+      "extensions": [".bas"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "cvbasic",
+      "scopeName": "source.bas",
+      "path": "./syntaxes/cvbasic.tmLanguage.json"
+    }]
+  }
+}
