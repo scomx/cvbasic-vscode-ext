@@ -2,13 +2,14 @@
   "name": "cvbasic-lang",
   "displayName": "CVBasic Lang",
   "description": "Syntax highlighting for CVBasic",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.94.0"
   },
   "categories": [
     "Programming Languages"
   ],
+  "license": "MIT",
   "contributes": {
     "languages": [{
       "id": "cvbasic",
@@ -21,5 +22,10 @@
       "scopeName": "source.bas",
       "path": "./syntaxes/cvbasic.tmLanguage.json"
     }]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scomx/cvbasic-vscode-ext.git"
   }
+
 }

@@ -4,7 +4,7 @@ Syntax highlightning extension for CVBasic - a BASIC cross-compiler for making g
 
 ## Screenshot
 
-![screenshot](./screenshots/demo01.png)
+![screenshot](https://raw.githubusercontent.com/scomx/cvbasic-vscode-ext/refs/heads/main/cvbasic-lang/screenshots/demo01.png)
 
 ## Requirements
 
@@ -25,4 +25,6 @@ No known issues.
 First release 
 ### 0.0.1
 
+Added CHAR keyword, GitHub repo link and working screenshot link.  
+### 0.0.2
 ---
