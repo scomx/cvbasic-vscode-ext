@@ -25,7 +25,7 @@
 			},
 			{
 				"name": "entity.name.type.cvbasic",
-				"match": "(?i:\\b(BITMAP|BYTE|CONST|COLOR|DATA|DEFINE|DEF|DIM|FN|PROCEDURE|SOUND|SPRITE|PLAY)\\b)"
+				"match": "(?i:\\b(BITMAP|BYTE|CHAR|CONST|COLOR|DATA|DEFINE|DEF|DIM|FN|PROCEDURE|SOUND|SPRITE|PLAY)\\b)"
 			},
 			{
 				"name": "comment.line.cvbasic",
