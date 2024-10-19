@@ -5,3 +5,6 @@
 
 * [CVBasic home page](https://nanochess.org/cvbasic.html) 
 * [CVBasic on GitHub](https://github.com/nanochess/CVBasic)
+
+
+## See [repo](https://github.com/scomx/cvbasic-vscode-ext/tree/main/cvbasic-lang) for more detailed README.
