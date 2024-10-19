@@ -1,6 +1,11 @@
 # Change Log
 
 ##
+## [0.0.3] 2024-10-19
+### Added
+- Missing TO keyword
+- Extension icon
+
 ## [0.0.2] 2024-10-18
 ### Added
 - Missing CHAR keyword

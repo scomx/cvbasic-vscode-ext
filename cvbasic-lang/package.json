@@ -2,13 +2,16 @@
   "name": "cvbasic-lang",
   "displayName": "CVBasic Lang",
   "description": "Syntax highlighting for CVBasic",
-  "version": "0.0.2",
+  "icon": "assets/cvbasic_128px_v2.png",
+  "version": "0.0.3",
+  "author": "rvc <dev@sco.rs>",  
   "engines": {
     "vscode": "^1.94.0"
   },
   "categories": [
     "Programming Languages"
   ],
+  "homepage": "https://github.com/scomx/cvbasic-vscode-ext/tree/main/cvbasic-lang#readme",
   "license": "MIT",
   "contributes": {
     "languages": [{

@@ -22,9 +22,14 @@ No known issues.
 
 ## Release Notes
 
-First release 
 ### 0.0.1
+First release 
 
-Added CHAR keyword, GitHub repo link and working screenshot link.  
 ### 0.0.2
+Added missing CHAR keyword to syntax. 
+Updated VSIX with GitHub repo link and working screenshot link.  
+
+### 0.0.3
+Added missing TO keyword to syntax and a VSCode extension icon.
+
 ---
