@@ -1,4 +1,4 @@
-# CVBasic syntax highlightning extension for VSCode 
+# CVBasic syntax highlighting extension for VSCode 
 
 ### Note! Requires VSCode 1.94.0 or later!
 * [VSIX installer download](https://github.com/scomx/cvbasic-vscode-ext/releases)
