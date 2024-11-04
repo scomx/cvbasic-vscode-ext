@@ -26,10 +26,12 @@ No known issues.
 First release 
 
 ### 0.0.2
-Added missing CHAR keyword to syntax. 
+BUGFIX: Added missing CHAR keyword to syntax. 
 Updated VSIX with GitHub repo link and working screenshot link.  
 
 ### 0.0.3
-Added missing TO keyword to syntax and a VSCode extension icon.
+BUGFIX: Added missing TO keyword to syntax
+FEATURE: Added VS Code extension icon.
 
----
+### 0.0.4
+BUGFIX: Added WEND and READ keywords to syntax.
